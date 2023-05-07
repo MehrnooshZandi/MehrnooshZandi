@@ -1,5 +1,5 @@
 <a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=MehrnooshZandi=true&count_private=true&include_all_commits=true&quot /></a>
 # 💫 About Me:
 I am Mehrnoosh Zandi. Proficient in C++, Java and Python programming languages. I am a programmer and instructor of programming and machine learning courses.<br>I am currently working on machine learning and deep learning.<br>I am eager to learn more and more in these fields.<br>I am ready to cooperate in the field of image processing and natural language processing.<br>You can contact me through this email: mehrnoooshzande@gmail.com
 
